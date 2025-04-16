@@ -48,8 +48,8 @@ import {
   
   function Question5(){
       return <section>
-  <br />
-  <h2>5. Leap year</h2>
+  5. Leap year<br />
+  <h2>results</h2>
   <p>is_leap(2020) == "{is_leap(2020).toString()}"</p>
   <p>is_leap(1900) == "{is_leap(1900).toString()}"</p>
   <p>is_leap(2000) == "{is_leap(2000).toString()}"</p>
